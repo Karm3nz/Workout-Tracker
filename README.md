@@ -2,7 +2,7 @@
 
 ## Description ✏️
 
-Working out is important for the mind, body and soul. However, keeping track of the exercise performed can be a hassle! Have no fear, the Worker Tracker is here! The worker tracker allows the user to add workouts categorized by cardio and resistance, displays a week's glance of the workout duration in minutes and pounds lifted, and displays data about the last workout done when user returns to the landing page. 
+Working out is important for the mind, body and soul. However, keeping track of the exercise performed can be a hassle! Have no fear, the Workout Tracker is here! The worker tracker allows the user to add workouts categorized by cardio and resistance, displays a week's glance of the workout duration in minutes and pounds lifted, and displays data about the last workout done when user returns to the landing page. 
 
 
 ![Dashboard Screenshot](public/assets/workoutTracker_dashboard.png)
