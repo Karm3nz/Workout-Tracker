@@ -2,8 +2,19 @@
 
 ## Description ✏️
 
-Working out is important for the mind, body and soul. However, keeping track of the exercise performed can be a hassle! Have no fear, the Workout Tracker is here! The worker tracker allows the user to add workouts categorized by cardio and resistance, displays a week's glance (10 days) of the workout duration in minutes and pounds lifted, and displays data about the last workout done when user returns to the landing page. 
+Working out is important for the mind, body and soul. However, keeping track of the exercise performed can be a hassle! Have no fear, the Workout Tracker is here! The worker tracker allows the user to add/continue workouts categorized by cardio and resistance, displays a week's glance (10 days) of the workout duration in minutes and pounds lifted, and displays data about the last workout done when user returns to the landing page. 
 
+### The user should be able to:
+
+````
+Add exercises to the most recent workout plan.
+
+Add new exercises to a new workout plan.
+
+View the combined weight of multiple exercises from the past seven workouts on the stats page.
+
+View the total duration of each workout from the past seven workouts on the stats page.
+````
 
 ![Dashboard Screenshot](public/assets/workoutTracker_dashboard.png)
 ![Fitness Tracker Screenshot](public/assets/workoutTracker_fitnessTracker.png)
@@ -13,7 +24,6 @@ Working out is important for the mind, body and soul. However, keeping track of 
 * [Installation](#installation)
 * [Credits](#credits)
 * [License](#license)
-
 
 ## Installation 
 💾
