@@ -46,7 +46,6 @@ router.get("/api/workouts/range", (req, res) => {
 
 router.post("/api/workouts/range", (req, res) => {
     Workout.create({})
-    .limit(10)
     .then(dbWorkout => {
         res.json(dbWorkout);
     })
